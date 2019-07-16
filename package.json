@@ -1,8 +1,11 @@
 {
-    “name”: “needle-bot”,
-    “version”: “1.0.0”,
-    “description”: “needle-bot, bot that does things”,
-    “main”: “bot.js”,
-    “author”: “ANiedritis”,
-    “dependencies”: {}
+    "name": "needle-bot",
+    "version": "1.0.0",
+    "description": "needle-bot, bot that does things",
+    "main": "bot.js",
+    "author": "ANiedritis",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.2.1"
+    }
 }
