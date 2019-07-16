@@ -1,0 +1,8 @@
+{
+    “name”: “needle-bot”,
+    “version”: “1.0.0”,
+    “description”: “needle-bot, bot that does things”,
+    “main”: “bot.js”,
+    “author”: “ANiedritis”,
+    “dependencies”: {}
+}
